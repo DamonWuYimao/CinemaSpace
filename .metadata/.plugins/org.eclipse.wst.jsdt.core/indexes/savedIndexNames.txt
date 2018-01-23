@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+/Users/mac/CinemaSpace/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+4070282086.index
+3763645470.index
+225354065.index
+2984838848.index
+858741251.index
+4206134344.index
